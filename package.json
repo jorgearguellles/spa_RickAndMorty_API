@@ -1,0 +1,16 @@
+{
+  "name": "sparickandmortyapi",
+  "version": "1.0.0",
+  "description": "This is a Single Page Application (SPA) that request and render data from the Rick & Morty API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SPA",
+    "JavaScript",
+    "API"
+  ],
+  "author": "Jorge Arias Argüelles",
+  "license": "MIT"
+}
