@@ -1,24 +1,25 @@
 {
-  "name": "sparickandmortyapi",
-  "version": "1.0.0",
-  "description": "This is a Single Page Application (SPA) that request and render data from the Rick & Morty API",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "SPA",
-    "JavaScript",
-    "API"
-  ],
-  "author": "Jorge Arias Argüelles",
-  "license": "MIT",
-  "devDependencies": {
-    "@babel/core": "^7.14.3",
-    "babel-loader": "^8.2.2",
-    "html-webpack-plugin": "^5.3.1",
-    "webpack": "^5.37.1",
-    "webpack-cli": "^4.7.0",
-    "webpack-dev-server": "^3.11.2"
-  }
+	"name": "sparickandmortyapi",
+	"version": "1.0.0",
+	"description": "This is a Single Page Application (SPA) that request and render data from the Rick & Morty API",
+	"main": "index.js",
+	"scripts": {
+		"build": "webpack --modo production",
+		"start": "webpack-dev-server --open --mode development"
+	},
+	"keywords": [
+		"SPA",
+		"JavaScript",
+		"API"
+	],
+	"author": "Jorge Arias Argüelles",
+	"license": "MIT",
+	"devDependencies": {
+		"@babel/core": "^7.14.3",
+		"babel-loader": "^8.2.2",
+		"html-webpack-plugin": "^5.3.1",
+		"webpack": "^5.37.1",
+		"webpack-cli": "^4.7.0",
+		"webpack-dev-server": "^3.11.2"
+	}
 }
