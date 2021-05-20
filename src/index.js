@@ -1,1 +1,3 @@
-console.log("Hello Sexy");
+import router from "./routes";
+
+window.addEventListener("load", router);
