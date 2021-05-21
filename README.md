@@ -5,7 +5,7 @@ This SPA is a exercise to practice fetch, consume and render data from Rick and 
 ## Autor
 
 - [@jorgeariasargüelles - Github](https://github.com/jorgearguellles)
-  [@jorgeariasargüelles - LinkedIn](https://www.linkedin.com/in/jorgeariasarguelles/)
+- [@jorgeariasargüelles - LinkedIn](https://www.linkedin.com/in/jorgeariasarguelles/)
 
 ## Documentación
 
@@ -40,7 +40,7 @@ Esta hecha con :green_heart: y:
 
 ## Vista
 
-![App Screenshot](https://github.com/jorgearguellles/weatherApp/blob/main/src/img/previewPAge.png)
+![App Screenshot](https://github.com/jorgearguellles/spa_RickAndMorty_API/blob/main/public/img/screenshot.png)
 
 ## Retroalimentación
 
