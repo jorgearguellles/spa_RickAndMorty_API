@@ -27,7 +27,7 @@ Esta hecha con :green_heart: y:
 #### Conseguir un personaje
 
 ```http
-  GET /api/items/${id}
+  GET https://rickandmortyapi.com/api/character/${id}
 ```
 
 | Parameter | Type     | Description                       |
