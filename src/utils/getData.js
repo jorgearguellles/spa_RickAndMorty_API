@@ -3,7 +3,7 @@ const API_URL = "https://rickandmortyapi.com/api/character"; //Endpoint de los p
 const getData = async (id) => {
 	const apiUrl = id ? `${API_URL}/${id}` : API_URL;
 	try {
-		const response = await fetch(apiUrl, { mode: "no-cors" });
+		const response = await fetch(apiUrl);
 		const data = await response.json();
 		return data;
 	} catch (error) {

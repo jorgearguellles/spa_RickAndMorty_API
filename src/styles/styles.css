@@ -72,7 +72,7 @@ body {
 
 .Characters-item {
 	text-decoration: none;
-	box-shadow: 8px 14px 38px rgba(39, 44, 49, 0.06),
+	box-shadow: 28px 24px 38px rgba(23, 26, 29, 0.06),
 		1px 3px 8px rgba(39, 44, 49, 0.03);
 	border-radius: 5px;
 	margin: 0 0 20px 0;
@@ -81,10 +81,14 @@ body {
 	animation-name: fade;
 }
 
+.Characters-item:hover {
+	transform: scale(1.1);
+}
+
 .Characters-item img {
 	width: 100%;
 	height: auto;
-	border-radius: 5px 5px 0 0;
+	border-radius: 10px 10px 0 0;
 }
 
 .Characters-item h2 {
