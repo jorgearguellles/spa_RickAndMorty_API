@@ -1,6 +1,6 @@
 # Rick & Morty Single Page Application (SPA)
 
-Esta SPA es un ejercición para consumir datos de una API (Rick & Morty) y mostrarlos de manera dinámica.
+Esta SPA es un ejercición para consumir datos de una API (Rick & Morty) y mostrarlos en la vista principal, además se trabajo integración continua con travis-ci
 
 ## Autor
 
@@ -14,6 +14,7 @@ Esta hecha con :green_heart: y:
 - [Estilos con CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 - [Componentes y lógica en Vanilla JavaScript](https://es.reactjs.org)
 - [Datos de Rock and Morty API](https://rickandmortyapi.com)
+- [Integración continua con Travis-ci](https://travis-ci.org)
 - [Desplegada en GitHub Pages](https://pages.github.com)
 
 ## Referencias de la API
