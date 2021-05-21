@@ -36,7 +36,7 @@ Esta hecha con :green_heart: y:
 
 ## Exploralá
 
-[Pruébala](https://main.d32onoc11tul47.amplifyapp.com)
+[Pruébala](https://jorgearguellles.github.io/spa_RickAndMorty_API/)
 
 ## Vista
 
