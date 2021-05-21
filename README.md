@@ -1,6 +1,6 @@
 # Rick & Morty Single Page Application (SPA)
 
-This SPA is a exercise to practice fetch, consume and render data from Rick and Morty API.
+Esta SPA es un ejercición para consumir datos de una API (Rick & Morty) y mostrarlos de manera dinámica.
 
 ## Autor
 
